@@ -15,4 +15,5 @@ sudo apt-get install jenkins -y
 sudo apt install git -y
 sudo systemctl start jenkins
 sudo systemctl enable jenkins
+
   
